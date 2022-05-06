@@ -1,2 +1,3 @@
 # my_robot_navigation
-教学用
+
+通过gmapping建立地图，教学用
